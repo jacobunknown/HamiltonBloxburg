@@ -29,4 +29,4 @@ The rest is to be decided in the future.
 ### Social Media
 
 [TikTok](https://www.tiktok.com/@hamilton.bloxburg.show?)
-[YouTube]([@hamilton.bloxburg.show](https://www.tiktok.com/@hamilton.bloxburg.show?))
+[YouTube](https://www.tiktok.com/@hamilton.bloxburg.show?)
