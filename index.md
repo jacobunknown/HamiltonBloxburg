@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+## Welcome to Hamilton Bloxburg!
 
-You can use the [editor on GitHub](https://github.com/jacobunknown/HamiltonBloxburg/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Hi! This is the official website of Hamilton Bloxburg. The performance will be taking place on Bloxburg, as well as being live streamed to YouTube.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Cast List
 
-### Markdown
+The Cast has currently not been chosen yet. For updates about getting involved or becoming and audience member, follow our TikTok [@hamilton.bloxburg.show](https://www.tiktok.com/@hamilton.bloxburg.show?)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**Alexander:**
 
-```markdown
-Syntax highlighted code block
+### Images
 
-# Header 1
-## Header 2
-### Header 3
+![Image 1](/Images/1.png)
 
-- Bulleted
-- List
+![Image 2](/Images/2.png)
 
-1. Numbered
-2. List
+![Image 3](/Images/3.png)
 
-**Bold** and _Italic_ and `Code` text
+![Image 4](/Images/4.png)
 
-[Link](url) and ![Image](src)
-```
+![Image 5](/Images/5.png)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+![Image 6](/Images/6.png)
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jacobunknown/HamiltonBloxburg/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+![Image 7](/Images/7.png)
