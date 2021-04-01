@@ -6,7 +6,9 @@ Hi! This is the official website of Hamilton Bloxburg. The performance will be t
 
 The Cast has currently not been chosen yet. For updates about getting involved or becoming and audience member, follow our TikTok [@hamilton.bloxburg.show](https://www.tiktok.com/@hamilton.bloxburg.show?)
 
-**Alexander:**
+**Alexander:** glowingxcalebb
+
+The rest is to be decided in the future.
 
 ### Images
 
@@ -23,3 +25,8 @@ The Cast has currently not been chosen yet. For updates about getting involved o
 ![Image 6](/Images/6.png)
 
 ![Image 7](/Images/7.png)
+
+### Social Media
+
+[TikTok](https://www.tiktok.com/@hamilton.bloxburg.show?)
+[YouTube]([@hamilton.bloxburg.show](https://www.tiktok.com/@hamilton.bloxburg.show?))
