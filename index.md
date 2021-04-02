@@ -16,11 +16,11 @@ The rest is to be decided in the future.
 
 ### Facts about the Theatre
 
-1: There is 60+ seats in our theatre!
-2: There is 4 secret exits/entrances onstage!
-3: We have 5 showers.
-4: It took 1.5 hours to build.
-5: The performance will be livestreamed to [YouTube!](https://www.youtube.com/channel/UC3eUPRxoitR-0gyo7QQjyPw)
+1: There is 60+ seats in our theatre!\
+2: There is 4 secret exits/entrances onstage!\
+3: We have 5 showers.\
+4: It took 1.5 hours to build.\
+5: The performance will be livestreamed to [YouTube!](https://www.youtube.com/channel/UC3eUPRxoitR-0gyo7QQjyPw)\
 
 ### Images
 
