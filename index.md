@@ -40,5 +40,5 @@ The rest is to be decided in the future.
 
 ### Social Media
 
-[TikTok](https://www.tiktok.com/@hamilton.bloxburg.show?)
+[TikTok](https://www.tiktok.com/@hamilton.bloxburg.show?)\
 [YouTube](https://www.youtube.com/channel/UC3eUPRxoitR-0gyo7QQjyPw)
