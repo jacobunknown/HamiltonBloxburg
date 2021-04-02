@@ -10,8 +10,9 @@ The Cast has currently not been chosen yet. For updates about getting involved o
 
 The rest is to be decided in the future.
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfvOKEWIS_5TLetb4nqWdxGd5VIAWFTtobIWodbVMk3dbVaSw/viewform?embedded=true>
-</iframe>
+### Application Form
+
+[Click this link to fill in an application form.](https://forms.gle/8xFxYXRwPMDK3LNe8)
 
 ### Images
 
