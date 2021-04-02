@@ -12,7 +12,7 @@ The rest is to be decided in the future.
 
 ### Application Form
 
-[Click this link to fill in an application form.](https://forms.gle/8xFxYXRwPMDK3LNe8)
+[Click this link to fill in an application form. This is mandatory if you want to audition.](https://forms.gle/8xFxYXRwPMDK3LNe8)
 
 ### Images
 
