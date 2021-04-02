@@ -14,6 +14,14 @@ The rest is to be decided in the future.
 
 [Click this link to fill in an application form. This is mandatory if you want to audition.](https://forms.gle/8xFxYXRwPMDK3LNe8)
 
+### Facts about the Theatre
+
+1: There is 60+ seats in our theatre!
+2: There is 4 secret exits/entrances onstage!
+3: We have 5 showers.
+4: It took 1.5 hours to build.
+5: The performance will be livestreamed to [YouTube!](https://www.youtube.com/channel/UC3eUPRxoitR-0gyo7QQjyPw)
+
 ### Images
 
 ![Image 1](/Images/1.png)
