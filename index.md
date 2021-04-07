@@ -4,8 +4,6 @@ Hi! This is the official website of Hamilton Bloxburg. The performance will be t
 
 ### Cast List
 
-The Cast has currently not been chosen yet. For updates about getting involved or becoming and audience member, follow our TikTok [@hamilton.bloxburg.show](https://www.tiktok.com/@hamilton.bloxburg.show?)
-
 **Alexander:** glowingxcalebb\
 **Angelica:** wat_girl11\
 **Phillip/Laurens:** Guitargnr2008
