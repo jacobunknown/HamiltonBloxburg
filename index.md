@@ -6,7 +6,9 @@ Hi! This is the official website of Hamilton Bloxburg. The performance will be t
 
 **Alexander:** glowingxcalebb\
 **Angelica:** wat_girl11\
-**Phillip/Laurens:** Guitargnr2008
+**Phillip/Laurens:** Guitargnr2008\
+**Aaron Burr:** sourpuppy239
+
 
 The rest is to be decided in the future.
 
