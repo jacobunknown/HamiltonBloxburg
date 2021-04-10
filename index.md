@@ -5,9 +5,13 @@ Hi! This is the official website of Hamilton Bloxburg. The performance will be t
 ### Cast List
 
 **Alexander:** glowingxcalebb\
+**Eliza:** 2h3Llo\
 **Angelica:** wat_girl11\
+**Peggy/Maria** froggygirl34\
 **Phillip/Laurens:** Guitargnr2008\
-**Aaron Burr:** sourpuppy239
+**Aaron Burr:** sourpuppy239\
+**Samuel Seabury:** ITSMELEAHDEVIL\
+**Hercules Mulligan/James Madison:** TheoDiLaurentis
 
 
 The rest is to be decided in the future.
