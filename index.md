@@ -15,7 +15,7 @@ Hi! This is the official website of Hamilton Bloxburg. The performance will be t
 **George Washington:** \
 **Hercules Mulligan/James Madison:** TheoDiLaurentis\
 
-### (Slightly) Less Important Characters
+#### (Slightly) Less Important Characters
 **Samuel Seabury/King George/Ensemble:** ITSMELEAHDEVIL\
 **Charles Lee/George Eaker/Doctor/Ensemble:** \
 **James Reynolds/Philip Schuyler/Ensemble:** \
