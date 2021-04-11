@@ -4,15 +4,22 @@ Hi! This is the official website of Hamilton Bloxburg. The performance will be t
 
 ### Cast List
 
+#### Main Characters
 **Alexander:** glowingxcalebb\
+**Aaron Burr:** sourpuppy239\
 **Eliza:** 2h3Llo\
 **Angelica:** wat_girl11\
-**Peggy/Maria** froggygirl34\
+**Peggy/Maria:** froggygirl34\
 **Phillip/Laurens:** Guitargnr2008\
-**Aaron Burr:** sourpuppy239\
-**Samuel Seabury:** ITSMELEAHDEVIL\
-**Hercules Mulligan/James Madison:** TheoDiLaurentis
+**Lafayette/Thomas Jefferson:** \
+**George Washington:** \
+**Hercules Mulligan/James Madison:** TheoDiLaurentis\
 
+### (Slightly) Less Important Characters
+**Samuel Seabury/King George/Ensemble:** ITSMELEAHDEVIL\
+**Charles Lee/George Eaker/Doctor/Ensemble:** \
+**James Reynolds/Philip Schuyler/Ensemble:** \
+**Bullet/Waitress/King George’s assistant:** \
 
 The rest is to be decided in the future.
 
