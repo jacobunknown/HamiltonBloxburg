@@ -1,7 +1,7 @@
 ## Welcome to Hamilton Bloxburg!
 
 Hi! This is the official website of Hamilton Bloxburg. The performance will be taking place on Bloxburg, as well as being live streamed to YouTube.
-**NOTE: This is mot an 'Official' Hamilton performance.**
+**NOTE: This is not an 'Official' Hamilton performance.**
 
 ### Cast List
 
