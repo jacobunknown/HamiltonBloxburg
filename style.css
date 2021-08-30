@@ -1,0 +1,59 @@
+body {
+    margin: 0px;
+    padding: 0%;
+}
+
+.bg {
+    position: fixed;
+    z-index: -100;
+    min-width: 100%;
+}
+
+* {
+    font-family: sans-serif;
+    color: white;
+}
+
+img {
+    user-select: none;
+    -webkit-user-drag: none;
+}
+
+.top {
+    background: rgba(0, 0, 0, 0.5);
+}
+
+.logo {
+    width: 40vmax;
+    display: block;
+    margin: auto;
+    filter: brightness(5);
+}
+
+.para {
+    width: 80%;
+    display: block;
+    margin: auto;
+    background: rgba(0, 0, 0, 0.2);
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-top: 1em;
+    padding-bottom: 1em;
+}
+
+ul {
+    display: flex;
+    flex-direction: column;
+    gap: .5em;
+}
+
+.photos {
+    display: flex;
+    width: 100%;
+    flex-direction: column;
+    gap: 1em;
+}
+
+.photos img {
+    width: 70%;
+}
